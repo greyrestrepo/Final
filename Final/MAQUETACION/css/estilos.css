@@ -1,0 +1,205 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  header {
+    background-color: #fff;
+    padding: 20px;
+  }
+  
+  nav ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .btn-compra {
+    background-color: #0056b3;
+    color: white;
+    padding: 8px 15px;
+    border-radius: 5px;
+  }
+  
+  .Ntendencias {
+    background-image: url(../images/Banner-Converge.jpg);
+    background-size: cover;
+    background-position: center;
+    color: black;
+    text-align: center;
+    padding: 150px 150px;
+    width: auto;
+    height: 500px;
+    line-height: 3;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+  }
+  .logo {
+    height: 400px; 
+    width: auto;
+    justify-content:left; 
+
+}
+  
+  .hero-text h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+  }
+  
+  .hero-text p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+  }
+  
+  .btn-inscribete {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  .intro {
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .intro h2 {
+    font-size: 2em;
+    color: #0056b3;
+    margin-bottom: 20px;
+  }
+  
+  .agenda {
+    background-color: #d9e6f2;
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .agenda h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .agenda-content {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .agenda-day {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    width: 200px;
+  }
+  
+  .agenda-day h3 {
+    margin-bottom: 10px;
+  }
+  
+  .agenda-day ul {
+    list-style: none;
+  }
+  
+  .registro {
+    background-color: #f5e4c3;
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .registro p {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .registro-categorias {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .registro-categorias span {
+    background-color: #0056b3;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+  
+  .btn-comprar {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  footer {
+    background-color: #0b2a4e;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    
+  }
+  
+  .contacto h3, .info h3 {
+    margin-bottom: 10px;
+    font-size: auto;
+    
+  }
+  
+  .social-icons img  {
+    margin: 0 5px;
+    margin: 0 10px;
+    width: 400px;
+  }
+
+  .banner {
+    display: flex;
+    align-items: center; 
+    justify-content:left; 
+    background-color: #333; 
+    padding: 10px 20px; 
+}
+
+
+
+.contenido-banner {
+    color: white; /* Color del texto */
+    text-align: right; /* Alinea el texto a la derecha */
+}
+
+h1 {
+    margin: 0;
+}
+
+p {
+    margin: 5px 0 0;
+}
+
+/* fondo de section/*
+/*fondo de footer/*
